@@ -55,7 +55,7 @@ function playAudio(type) {
       audio.src = "lakalaka.mp3  "  ;
       break;
     case "draw":
-      audio.src = "bhai.mp3";
+      audio.src = "bh.mp3";
       break;
     case "turn":
       audio.src = "gunsound.mp3";
