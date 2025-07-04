@@ -16,6 +16,7 @@ body {
 h1 {
   color: #10a7e2;
   text-align: center;
+  font-weight: 800;
 }
 
 .board {
