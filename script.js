@@ -61,7 +61,7 @@ function playAudio(type) {
       audio.src = "gunsound.mp3";
       break;
     case "reset":
-      audio.src = "reset.mp3";
+      audio.src = "le.mp3";
       break;
     default:
       return;
